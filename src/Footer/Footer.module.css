@@ -1,0 +1,18 @@
+.footer {
+  margin-top: auto;
+  background-color: rgba(100, 183, 247, 0.565);
+  text-align: center;
+  height: 0px;
+  justify-content: center;
+  display: block;
+  align-items: center;
+  padding-bottom: 30px;
+}
+
+.div {
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  padding-top: 15px;
+  max-height: 100%;
+}

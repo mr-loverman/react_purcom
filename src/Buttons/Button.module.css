@@ -1,0 +1,19 @@
+.button{
+  background-color: rgba(123, 216, 255, 0.711);
+  padding: 10px 40px;
+  margin-top: -7px;
+  height: 57px;
+  border: none;
+  cursor: pointer;
+  color: rgb(105, 105, 105);
+}
+
+.button:hover {
+  background-color: rgba(94, 153, 255, 0.215);
+  color: rgba(161, 161, 161, 0.813);
+}
+
+.button:active {
+  background-color: rgba(123, 134, 255, 0.215);
+  color:  beige;
+}
